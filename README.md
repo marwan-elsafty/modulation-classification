@@ -3,12 +3,11 @@ Classifying different signals modulations into their right modulations using dif
 
 ## Dataset
 DeepSig Dataset: RadioML 2016.04B
+
 **Download Link**: opendata.deepsig.io/datasets/2016.10/RML2016.10b.tar.bz2
+
 **Description**: 
-A synthetic dataset, generated with GNU Radio [[1]](#1), consisting of 11 modulations. This is a
-variable-SNR dataset with moderate LO drift, light fading, and numerous different
-labeled SNR increments for use in measuring performance across different signal and
-noise power scenarios.
+A synthetic dataset, generated with GNU Radio [[1]](#1), consisting of 11 modulations. This is a variable-SNR dataset with moderate LO drift, light fading, and numerous different labeled SNR increments for use in measuring performance across different signal and noise power scenarios.
 
 * It has 1,200,000 samples
 * Each sample is presented using two vectors each of them has 128 elements.
@@ -47,9 +46,10 @@ noise power scenarios.
 T. O’shea, N. West. 
 “Radio Machine Learning Dataset Generation with
 GNU Radio”,
-https://pubs.gnuradio.org/index.php/grcon/article/download/11/10/
+<https://pubs.gnuradio.org/index.php/grcon/article/download/11/10/>
+
 <a id="2">[2]</a> 
 T. O’Shea, J. Corgan, and T. Clancy.
 “Convolutional Radio Modulation Recognition Networks”
-https://arxiv.org/pdf/1602.04105.pdf
+<https://arxiv.org/pdf/1602.04105.pdf>
  
